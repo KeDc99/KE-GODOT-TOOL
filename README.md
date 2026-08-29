@@ -1,2 +1,2 @@
 # KE-GODOT-TOOL
-一些自己写的插件备份
+用来存储自己用DSH写的一些GODOT插件
